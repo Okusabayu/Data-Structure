@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711727597 source:c:\users\user\desktop\percobaan 06 c\main.c
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
