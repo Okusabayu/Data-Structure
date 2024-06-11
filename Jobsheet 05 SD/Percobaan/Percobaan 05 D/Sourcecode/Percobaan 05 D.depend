@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1711383399 source:c:\users\user\desktop\percobaan 05 d\main.c
-	<stdio.h>
-	<conio.h>
-	<malloc.h>
-	<stdlib.h>
-
